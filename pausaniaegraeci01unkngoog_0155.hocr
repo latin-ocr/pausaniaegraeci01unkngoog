@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pausaniaegraeci01unkngoog_0155.png"; bbox 0 0 2642 4609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 1308 847 1419">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 1308 847 1419">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 1308 847 1419; baseline -0.018 -9"><span class='ocrx_word' id='word_1_1' title='bbox 239 1308 847 1419; x_wconf 71' lang='grc' dir='ltr'><strong>ΠΑΤΣΑΝΙΟΤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 63 1526 1069 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 63 1526 1069 1793">
+     <span class='ocr_line' id='line_1_2' title="bbox 63 1526 1069 1793; baseline -0.003 -55"><span class='ocrx_word' id='word_1_2' title='bbox 63 1624 426 1793; x_wconf 73' lang='grc' dir='ltr'>ΕΛΛΑΔΟΣ</span> <span class='ocrx_word' id='word_1_3' title='bbox 474 1526 1069 1735; x_wconf 64' lang='grc' dir='ltr'>ΠΕΡΠ-ΙΓΗΣΕΩΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 274 1916 895 2023">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 274 1914 973 2023">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 1916 895 2023; baseline -0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 274 1940 281 1946; x_wconf 71' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 332 1916 763 2023; x_wconf 72' lang='grc' dir='ltr'><strong>ΜΕΣΣΗΝΙΚΑ.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 806 1954 808 1959; x_wconf 94' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 873 1942 895 1951; x_wconf 89' lang='lat'><strong>··</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1326 4609">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1326 4609">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1326 4609; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1326 4609; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
